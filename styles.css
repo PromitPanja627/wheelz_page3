@@ -1,0 +1,27 @@
+body {
+  overflow-x: hidden;
+}
+.nav-item > a {
+  text-decoration: none;
+}
+.nav-item > a :focus {
+  color: black;
+}
+
+.card img {
+  height: 450px;
+  width: auto;
+  overflow: hidden;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.rate {
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.rate h3 {
+  display: inline;
+  color: rgb(19, 176, 19);
+}
